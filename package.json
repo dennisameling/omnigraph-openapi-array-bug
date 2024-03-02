@@ -1,0 +1,16 @@
+{
+  "name": "omnigraph-openapi-array-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@omnigraph/openapi": "^0.99.0",
+    "graphql": "^16.8.1"
+  }
+}
